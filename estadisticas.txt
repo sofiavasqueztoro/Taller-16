@@ -1,0 +1,29 @@
+========================================
+ESTRUCTURA A GRAN ESCALA - ESTADÍSTICAS
+========================================
+
+Número total de galaxias: 10641
+
+CLASIFICACIÓN POR DENSIDAD
+---------------------------
+Galaxias en CUMULOS: 3811 (35.8%)
+Galaxias en FILAMENTOS: 3229 (30.3%)
+Galaxias en VACIOS: 3601 (33.8%)
+
+CÚMULOS IDENTIFICADOS
+---------------------
+Número total de cúmulos: 27
+Radio promedio: 43.88 millones años luz
+Cúmulo más grande: ID 5 (986 galaxias, radio 227.79)
+
+VACÍOS IDENTIFICADOS
+--------------------
+Número total de vacíos: 8
+Radio promedio: 300.13 millones años luz
+Vacío más grande: ID 2 (radio 1837.83 millones años luz)
+
+FILAMENTOS TRAZADOS
+-------------------
+Número de filamentos: 57
+Longitud promedio: 143.31 millones años luz
+Total de puntos trazados: 902
