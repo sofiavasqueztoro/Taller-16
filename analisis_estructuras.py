@@ -1,6 +1,9 @@
 """
 Análisis de Estructura a Gran Escala del Universo
-Estudiantes: [NOMBRES]
+Estudiantes: Alejandro Guerrero - 202510898
+Ariana Lozano - 202410609
+Samara Martinez - 202221057
+Sofia Vasquez - 202123910
 """
 
 import numpy as np
